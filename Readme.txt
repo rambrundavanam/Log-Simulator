@@ -1,8 +1,7 @@
-/***********************************************************README*****************************************************************/
+/*****************************************README********************************************/
 /*Author Ram Brundavanam
 *MS Computer Science
 *Indiana University Bloomington
-*+1(202)(602)(8940)
 */
 
 Please reading the following before using the tool. 
